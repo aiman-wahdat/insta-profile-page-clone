@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">insta-profile-page-clone</string>
+    <string name="username">username</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="following">following</string>
+    <string name="followers">followers</string>
+    <string name="_6530">6530</string>
+    <string name="posts">posts</string>
+    <string name="_3431">3431</string>
+    <string name="yoursite_com">yoursite.com</string>
+    <string name="and_here_too">and here too.</string>
+    <string name="your_bio_goes_here">Your bio goes here ..</string>
+    <string name="your_bio_goes_here_nand_here_too">your bio goes here..\nand here too..</string>
+    <string name="your_name">Your Name</string>
+</resources>
